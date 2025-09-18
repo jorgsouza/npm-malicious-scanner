@@ -1,7 +1,0 @@
-067bf112bf2bd08df3631212e22dd08a950513052a6d3ba065f594512e4f596f  bin/npm-malicious-v1.0.0-darwin-amd64
-f807a0c90a1dea76c9fe3b0d39671b4e107ec86cbac557b6d8325493b5952a20  bin/npm-malicious-v1.0.0-darwin-arm64
-0606bd6447ab68f1e0231cc99d9ce687c3dc9a50b65f027121e5f6fcce27e6a8  bin/npm-malicious-v1.0.0-linux-386
-8a5070d2c5c6b94cf287aaf20df522336a7d0c15f72d1b247b2fe654e421fe1c  bin/npm-malicious-v1.0.0-linux-amd64
-bff45cafb924f424d1d786cde01c4ffe4db77fb77042869300610cfb54fd667a  bin/npm-malicious-v1.0.0-linux-arm64
-f24a826a895f6ba88bbf44b216388de5d0768ec2e0b1a14a7d90f2b9b21e4958  bin/npm-malicious-v1.0.0-windows-386.exe
-8a04d53b06efc03cefc82781672498cbf7567a7eeddc5ce54d412fd1cd173176  bin/npm-malicious-v1.0.0-windows-amd64.exe
