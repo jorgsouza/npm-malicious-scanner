@@ -1,3 +1,7 @@
+[![Build Status](https://github.com/jorgsouza/npm-malicious-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/jorgsouza/npm-malicious-scanner/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jorgsouza/npm-malicious-scanner)](https://goreportcard.com/report/github.com/jorgsouza/npm-malicious-scanner)
+[![Downloads](https://img.shields.io/github/downloads/jorgsouza/npm-malicious-scanner/total.svg)](https://github.com/jorgsouza/npm-malicious-scanner/releases)
+
 # npm-malicious-scanner
 
 [![Go Version](https://img.shields.io/badge/Go-1.21.1-blue.svg)](https://golang.org)
