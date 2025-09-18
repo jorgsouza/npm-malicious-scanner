@@ -43,3 +43,6 @@ output.json
 # Temporary files
 tmp/
 temp/
+
+# Permitir binários de release .exe na pasta bin/
+!bin/*.exe
