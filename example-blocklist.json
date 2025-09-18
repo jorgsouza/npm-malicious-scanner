@@ -1,0 +1,58 @@
+[
+  {
+    "name": "event-stream",
+    "versions": ["3.3.6"]
+  },
+  {
+    "name": "eslint-scope",
+    "versions": ["3.7.2"]
+  },
+  {
+    "name": "flatmap-stream",
+    "versions": []
+  },
+  {
+    "name": "getcookies",
+    "versions": []
+  },
+  {
+    "name": "jdb",
+    "versions": []
+  },
+  {
+    "name": "crossenv",
+    "versions": []
+  },
+  {
+    "name": "d3.js",
+    "versions": []
+  },
+  {
+    "name": "babelcli",
+    "versions": []
+  },
+  {
+    "name": "nodemon.json",
+    "versions": []
+  },
+  {
+    "name": "mongose",
+    "versions": []
+  },
+  {
+    "name": "diwebpack",
+    "versions": []
+  },
+  {
+    "name": "mssql.js",
+    "versions": []
+  },
+  {
+    "name": "sqlite.js",
+    "versions": []
+  },
+  {
+    "name": "malicious-package",
+    "versions": []
+  }
+]
